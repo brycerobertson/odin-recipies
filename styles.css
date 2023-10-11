@@ -1,0 +1,41 @@
+/*styles.css*/
+
+* {
+    background-color: rgb(255, 255, 190);
+    text-align: center;
+    color: red;
+    font-family: "Zilla Slab", serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a:link,
+a:visited,
+a:hover {
+    font-weight: 500;
+}
+
+img {
+    width: 65%;
+    height: auto;
+}
+
+.title {
+    background-color: rgb(247, 247, 103);
+}
+
+p {
+    width:
+}
+
+.contents {
+    width: 65%;
+    margin: auto;
+}
